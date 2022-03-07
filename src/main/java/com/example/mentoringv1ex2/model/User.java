@@ -1,5 +1,6 @@
-package com.example.mentoringv1ex2;
+package com.example.mentoringv1ex2.model;
 
+import com.example.mentoringv1ex2.model.Role;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
